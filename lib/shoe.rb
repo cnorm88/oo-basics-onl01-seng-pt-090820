@@ -11,8 +11,6 @@ class Shoe
     puts "repaired"
   end
   
-  def cobble
-    @cobble
-  end
+  
   
 end
